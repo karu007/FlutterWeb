@@ -8,3 +8,9 @@ This repository will guide you to give a headstart for flutter-web. Well, these 
 1. Make sure you have flutter path in environment variables. Verify this path by running `flutter --version` command in command prompt
 - If you are on the right track output will kind of something this:
 ![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/flutter_path_check.png)
+
+- If you get something like below then do the step 0 properly:
+![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/flutter_path_check_error.png)
+
+2. Run `flutter upgrade` on your windows command prompt with proper internet conencction.
+3. Now once that command got finished, install this exe file: 
