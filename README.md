@@ -13,4 +13,9 @@ This repository will guide you to give a headstart for flutter-web. Well, these 
 ![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/flutter_path_check_error.png)
 
 2. Run `flutter upgrade` on your windows command prompt with proper internet conencction.
-3. Now once that command got finished, install this exe file: 
+3. Now once that command got finished, download this: [Dart SDK](http://www.gekorm.com/dart-windows/) depending on your windows platform.
+4. Once downloaded install it in normal way you install any other windows software.
+5. Set path of this dart SDK in environmental variables (...\Dart\dart-sdk\bin).
+here is the glimpse of the process:
+
+6. 
