@@ -6,3 +6,5 @@ This repository will guide you to give a headstart for flutter-web. Well, these 
 # Here are the steps for those who already have flutter and getting crazy to start flutter-web:
 0. Add flutter path into enironment variables
 1. Make sure you have flutter path in environment variables. Verify this path by running `flutter --version` command in command prompt
+- If you are on the right track output will kind of something this:
+![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/flutter_path_check.png)
