@@ -29,3 +29,17 @@ here is the glimpse of the process:
 11. Wow! we are half way done. Congratulations!
 12. Next first restart VSCode (reopen it after closing).
 13. Press `ctrl + shift + P` type `flutterweb` and hit enter.
+14. There might be a side dialog box appear for stagehand activation, allow it.
+15. Enter project name where it asks for.
+16. Choose project location.
+16. Wait until index.html appeears
+17. You may see an error in file called analysis_options.yaml, so just open that file and go to the link just above the include statement.
+- It may look like this 
+![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/likn.png)
+18. Copy the last include line of above image from that webpage and paste in place of already existed include statement, this will solve the problem.
+- Once you done. Your file looks something like this:
+![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/final.png)
+19. Now close this project in VSCode if the error was gone.
+20. Well! now you have to open the same project folder.
+21. Go to your flutter directory where you have installed flutter looks like this:
+![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/files.png)
