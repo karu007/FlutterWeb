@@ -40,7 +40,7 @@ here is the glimpse of the process:
 - Once you done. Your file looks something like this:
 ![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/final.png)
 19. Now close this project in VSCode if the error was gone.
-20. Well! now you have to open the same project folder.
+20. Well! now you have to open the same project folder in android studio.
 21. Go to your flutter directory where you have installed flutter looks like this:
 ![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/files.png)
 22. Now go to open .pub-cache/bin and copy the path and add this path to your environment variables where you have pasted the dart sdk or flutter path.
