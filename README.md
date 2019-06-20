@@ -46,7 +46,7 @@ here is the glimpse of the process:
 22. Now go to open .pub-cache/bin and copy the path and add this path to your environment variables where you have pasted the dart sdk or flutter path.
 23. Open the command prompt in adminitrator mode and run the command `flutter pub global activate webdev`.
 23. Once this done. Now run `flutter upgrade`.
-24. Go to android studio project, and click the Terminal from below options and type `flutter pub upgrade` something like this:
+24. Go to android studio, open that project, and click the Terminal from below options and type `flutter pub upgrade` something like this:
 ![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/android.png)
 ...Wait for completion.
 25. Wow! your'e done.
