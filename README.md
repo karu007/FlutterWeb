@@ -31,8 +31,7 @@ here is the glimpse of the process:
 13. Press `ctrl + shift + P` type `flutterweb` and hit enter.
 14. There might be a side dialog box appear for stagehand activation, allow it.
 15. Enter project name where it asks for.
-16. Choose project location.
-16. Wait until index.html appeears
+16. Choose project location, wait until index.html appeears
 17. You may see an error in file called analysis_options.yaml, so just open that file and go to the link just above the include statement.
 - It may look like this 
 ![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/likn.png)
@@ -41,16 +40,15 @@ here is the glimpse of the process:
 ![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/final.png)
 19. Now close this project in VSCode if the error was gone.
 20. Well! now you have to open the same project folder in file explorer.
-21. Go to your flutter directory where you have installed flutter looks like this:
+21. Open the command prompt in adminitrator mode and run the command `flutter pub global activate webdev`.
+22. Go to your flutter directory where you have installed flutter looks like this:
 ![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/files.png)
-22. Now go to open .pub-cache/bin and copy the path and add this path to your environment variables where you have pasted the dart sdk or flutter path.
-23. Open the command prompt in adminitrator mode and run the command `flutter pub global activate webdev`.
-23. Once this done. Now run `flutter upgrade`.
-24. Go to android studio, open that project, and click the Terminal from below options and type `flutter pub upgrade` something like this:
+23. Now go to open .pub-cache/bin and copy the path and add this path to your environment variables where you have pasted the dart sdk or flutter path.
+24. Once this done. Now run `flutter upgrade`.
+25. Go to android studio, open that project, and click the Terminal from below options and type `flutter pub upgrade` something like this:
 ![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/android.png)
 ...Wait for completion.
-25. Wow! your'e done.
-26. Just type `flutter pub global run webdev serve --auto restart` in the terminal of android studio as shown here:
+26. Wow! your'e done.
+27. Just type `flutter pub global run webdev serve --auto restart` in the terminal of android studio as shown here:
 ![](https://raw.githubusercontent.com/karu007/FlutterWeb/master/last.png)
-27. Now go to the link in the output i.e [http://127.0.0.1:8080](http://127.0.0.1:8080) mostly of this type.
-
+28. Now go to the link in the output i.e [http://127.0.0.1:8080](http://127.0.0.1:8080) mostly of this type.
